@@ -1,5 +1,5 @@
 /*
-	Write a java program to accept n numbers through command line and store all prime and perfect no 	into different array and display both arrays.
+	Write a java program to accept n numbers through command line and store all prime and perfect no into different array and display both arrays.
 */
 
 import java.lang.*;
