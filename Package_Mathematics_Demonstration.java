@@ -1,5 +1,7 @@
 /*
-	Question: Create package mathematics which has 2 classes as class Addition with method to add two numbers, add three numbers and class Maximum with method to find maximum of 2 numbers and maximum of 3 numbers.
+	Question: Create package mathematics which has 2 classes as 
+	class Addition with method to add two numbers, add three numbers and 
+	class Maximum with method to find maximum of 2 numbers and maximum of 3 numbers.
 	Make Use of finalize
 */
 // mathematics package
