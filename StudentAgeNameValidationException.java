@@ -1,5 +1,8 @@
 /*
-	Write a class Student with attributes name, age. Intialize values through parameterized constructor. If age of student is not in between 15 and 21 then generate user defined excpetion "Age Not 
+	Write a class Student with attributes name, age. 
+	Intialize values through parameterized constructor. 
+	If age of student is not in between 15 and 21 then generate user defined excpetion "Age is Invalid".
+	If name of student contains symbols other than alphabets then generate user defined exception "Name is Incorrect".
 */
 
 // Invalid Name Exception
